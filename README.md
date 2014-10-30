@@ -1,1 +1,1 @@
-Deprecated. See https://github.com/vojtajina/atscript-playground
+# Deprecated. See [vojtajina/atscript-playground](https://github.com/vojtajina/atscript-playground)
